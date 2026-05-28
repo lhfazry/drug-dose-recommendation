@@ -1,0 +1,55 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+dist/
+build/
+*.so
+
+# --- Virtual environment ---
+venv/
+.venv/
+env/
+.env/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- macOS ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+
+# --- Generated data / artifacts (keep directory) ---
+data/*.parquet
+data/*.pkl
+data/*.pickle
+data/final_recommendation.json
+
+# --- Paper PDF (large binary, not source) ---
+*.pdf
+
+# --- Project-specific ---
+# Preprocessing pipeline pickle
+preprocessing_pipeline.pkl
+
+# --- ML / Model checkpoints ---
+*.pt
+*.pth
+*.bin
+checkpoints/

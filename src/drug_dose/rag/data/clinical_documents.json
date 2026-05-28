@@ -1,0 +1,1452 @@
+[
+  {
+    "doc_id": "HTN-001",
+    "title": "ACE Inhibitor First-Line Guidelines for Hypertension",
+    "content": "ACE inhibitors are recommended as first-line antihypertensive therapy by the 2024 AHA/ACC guidelines for patients with stage 1 or 2 hypertension, particularly in those with concomitant diabetes, CKD, or heart failure with reduced ejection fraction. Initiate lisinopril at 10 mg once daily or enalapril at 5 mg once daily, titrating upward at 2-4 week intervals. Target systolic BP below 130 mmHg and diastolic below 80 mmHg for most patients. For African Americans, ACE inhibitors may be less effective as monotherapy; combine with thiazide or CCB. Monitor serum potassium and creatinine within 1-2 weeks of initiation and after each dose increase, especially when baseline GFR is below 60 mL/min. Creatinine rise up to 30% is acceptable and should not prompt discontinuation. Contraindications include bilateral renal artery stenosis, history of angioedema, and pregnancy. Dry cough occurs in 5-20% of patients, mediated by bradykinin accumulation, resolving 1-4 weeks after switching to an ARB. Hyperkalemia risk increases with potassium-sparing diuretics, potassium supplements, or NSAIDs, especially when GFR is below 45 mL/min. For moderate to severe renal impairment, initiate lisinopril at 2.5-5 mg daily when GFR is below 30 mL/min with close monitoring.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "lisinopril",
+      "enalapril"
+    ],
+    "metadata": {
+      "tags": [
+        "ACE inhibitor",
+        "first-line",
+        "hypertension"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-002",
+    "title": "ARB Alternatives for ACE-Intolerant Patients",
+    "content": "ARBs are the recommended alternative when patients develop intolerable ACE inhibitor cough. The 2024 AHA/ACC guidelines give ARBs a Class IA recommendation for ACE-intolerant patients with equivalent BP efficacy across trials including LIFE, VALUE, and ONTARGET. Losartan starts at 50 mg once daily, titrated to 100 mg daily. Candesartan starts at 8 mg, up to 32 mg daily. Valsartan starts at 80-160 mg, max 320 mg. Irbesartan 150-300 mg daily shows nephroprotection in diabetic nephropathy. ARBs do not inhibit bradykinin degradation, giving cough incidence equal to placebo. The ONTARGET trial showed telmisartan 80 mg non-inferior to ramipril 10 mg for CV outcomes with better tolerability. ACE+ARB combination is contraindicated due to hyperkalemia, hypotension, and renal impairment risk without CV benefit (ONTARGET, VA NEPHRON-D). When GFR below 30 mL/min, start ARBs at half dose with lab monitoring at 1-2 weeks. Losartan uniquely provides uricosuric effect beneficial in gout.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "losartan",
+      "candesartan",
+      "valsartan",
+      "irbesartan",
+      "telmisartan",
+      "ramipril"
+    ],
+    "metadata": {
+      "tags": [
+        "ARB",
+        "ACE-intolerant",
+        "alternative"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-003",
+    "title": "Beta-Blocker Indications and Dosing in Hypertensive Patients",
+    "content": "Beta-blockers are first-line for hypertensive patients with ischemic heart disease, HFrEF, and post-MI per 2024 AHA/ACC (Class I). For uncomplicated hypertension, beta-blockers are not first-line due to inferior stroke prevention versus other classes (ASCOT-BPLA). Metoprolol succinate 25-200 mg daily or carvedilol 6.25-25 mg BID are preferred. Carvedilol adds alpha-1 blockade with vasodilation and improved insulin sensitivity. Bisoprolol 2.5-10 mg daily has high beta-1 selectivity. Abrupt discontinuation risks rebound hypertension and acute coronary events; taper over 1-2 weeks. Pharmacogenomics: 7-10% of Caucasians are CYP2D6 poor metabolizers with elevated metoprolol levels and increased bradycardia risk. Ultrarapid metabolizers (1-2%) may need higher doses. Fatigue, bradycardia, cold extremities are common. Contraindications: severe bradycardia, high-grade AV block without pacemaker, decompensated heart failure.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "atenolol",
+      "metoprolol",
+      "carvedilol",
+      "bisoprolol",
+      "verapamil",
+      "diltiazem"
+    ],
+    "metadata": {
+      "tags": [
+        "beta-blocker",
+        "indications",
+        "CYP2D6"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-004",
+    "title": "Calcium Channel Blocker Dosing by Age and Renal Function",
+    "content": "DHP-CCBs such as amlodipine and nifedipine are first-line across all age groups per 2024 AHA/ACC (Class IA). Amlodipine 2.5-5 mg once daily, titrated to 10 mg max, full effect at 7-14 days due to 30-50 hour half-life. In patients aged 65+, start at 2.5 mg daily to reduce orthostasis risk. Renal function does not significantly affect DHP-CCBs; no dose adjustment needed in CKD, making amlodipine useful in renal impairment. Nifedipine ER 30-90 mg daily is an alternative. Non-DHP CCBs (diltiazem 120-360 mg daily, verapamil 120-480 mg daily) provide rate control, preferred in atrial fibrillation or angina. Non-DHP CCBs require dose reduction in renal impairment. Most common DHP-CCB adverse effect: peripheral edema in 10-20%, dose-dependent, may improve with ACEi/ARB. Headache, flushing, gingival hyperplasia also occur.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "amlodipine",
+      "nifedipine",
+      "diltiazem",
+      "verapamil"
+    ],
+    "metadata": {
+      "tags": [
+        "calcium channel blocker",
+        "renal function",
+        "elderly"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-005",
+    "title": "Thiazide Diuretic Use in Hypertension Management",
+    "content": "Thiazide diuretics remain cornerstone antihypertensives with Class IA recommendation from 2024 AHA/ACC, supported by ALLHAT. Chlorthalidone 12.5-25 mg daily is preferred over HCTZ 12.5-50 mg daily due to longer half-life (45-60 vs 8-15 hours) and superior 24-hour BP control. Indapamide 1.25-2.5 mg daily provides a long-acting alternative with vasodilatory properties. Thiazides are especially effective in African Americans, elderly, and salt-sensitive hypertension. Hypokalemia occurs in 5-25%, with K+ below 3.5 mEq/L increasing arrhythmia risk; supplement potassium or add potassium-sparing diuretics (amiloride, spironolactone). Thiazide efficacy diminishes at GFR below 30 mL/min; switch to loop diuretics (furosemide 20-80 mg BID, torsemide 5-20 mg daily). Metolazone 2.5-5 mg works in advanced CKD with loop diuretics but requires close monitoring for profound diuresis and electrolyte disturbances.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "chlorthalidone",
+      "hydrochlorothiazide",
+      "indapamide",
+      "furosemide",
+      "torsemide",
+      "metolazone",
+      "spironolactone",
+      "amiloride"
+    ],
+    "metadata": {
+      "tags": [
+        "thiazide",
+        "diuretic",
+        "electrolytes"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-006",
+    "title": "Hypertension Management in CKD Patients",
+    "content": "Per the 2024 KDIGO guideline, target systolic BP for non-dialysis CKD is below 120 mmHg when tolerated, based on SPRINT. RAAS blockade with ACEi or ARB is first-line in CKD patients with albuminuria above 300 mg/g, regardless of diabetes. For albuminuria 30-300 mg/g, RAAS blockade is also recommended. Initiate lisinopril at 5 mg daily or losartan at 25 mg daily, with careful uptitration while monitoring potassium and creatinine at baseline and 1-2 weeks. Creatinine rise up to 30% is acceptable. For RAAS-intolerant patients, amlodipine or thiazide diuretics are alternatives. In CKD stage 4 (GFR 15-29), thiazides lose efficacy; loop diuretics are preferred. ACEi+ARB combination is contraindicated (ONTARGET, VA NEPHRON-D). Maintain serum K+ between 4.0-5.0 mmol/L; restrict dietary K+ and avoid potassium-sparing diuretics, NSAIDs, and K+ supplements when K+ exceeds 5.5 mmol/L. In dialysis patients, BP targets are individualized by volume status, interdialytic weight gain, and ultrafiltration rate.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "lisinopril",
+      "losartan",
+      "amlodipine"
+    ],
+    "metadata": {
+      "tags": [
+        "CKD",
+        "RAAS blockade",
+        "SPRINT trial"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-007",
+    "title": "Resistant Hypertension Treatment Protocols",
+    "content": "Resistant hypertension is defined as BP above 130/80 mmHg despite three antihypertensive classes including a diuretic at maximally tolerated doses. The 2024 AHA/ACC scientific statement recommends confirmation with out-of-office monitoring to exclude white-coat effect. Assess adherence via pill counts and pharmacy records. Exclude secondary causes: primary aldosteronism, renal artery stenosis, OSA, pheochromocytoma. Optimal three-drug regimen: ACEi/ARB plus amlodipine 10 mg daily plus chlorthalidone 25 mg daily (preferred over HCTZ). Fourth-line: spironolactone 12.5-50 mg daily (PATHWAY-2 showed superiority over doxazosin and bisoprolol). Eplerenone 25-50 mg BID is an alternative with fewer antiandrogenic effects. Monitor K+ and creatinine closely with spironolactone plus RAAS blockade. Fifth-line options: beta-blockers, alpha-blockers (doxazosin), centrally acting agents (clonidine, guanfacine), or direct vasodilators (hydralazine, minoxidil). Refer to hypertension specialist when BP remains uncontrolled after six months.",
+    "source": "AHA/ACC Scientific Statement 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "amlodipine",
+      "chlorthalidone",
+      "spironolactone",
+      "eplerenone",
+      "doxazosin",
+      "bisoprolol",
+      "clonidine",
+      "hydralazine",
+      "minoxidil"
+    ],
+    "metadata": {
+      "tags": [
+        "resistant hypertension",
+        "spironolactone",
+        "PATHWAY-2"
+      ],
+      "evidence_level": "IIA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-008",
+    "title": "Case: 55M Hypertensive with Diabetes, Successful Lisinopril 20 mg",
+    "content": "A 55-year-old African American male with 10-year T2DM and stage 1 hypertension presented for follow-up. HbA1c was 8.2% on metformin 1000 mg BID, BMI 33, urine ACR 85 mg/g. BP was 148/92 mmHg on two occasions. Renal function was preserved: creatinine 1.1 mg/dL, eGFR 78, K+ 4.1. An ACE inhibitor was initiated per ADA/AHA guidelines. Lisinopril was started at 10 mg daily. At 2 weeks, K+ rose to 4.6, creatinine to 1.25 (both acceptable), BP decreased to 138/84. Lisinopril was uptitrated to 20 mg daily. At 3 months, BP reached 126/78 mmHg, achieving the ADA target of below 130/80. Repeat labs: K+ 4.8, creatinine 1.3. Urine ACR decreased to 48 mg/g (48% reduction). No cough or adverse effects were reported. This case illustrates dual ACE inhibition benefit: BP control and proteinuria reduction through a single agent.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "hypertension",
+    "drug_names": [
+      "lisinopril",
+      "metformin"
+    ],
+    "metadata": {
+      "tags": [
+        "case study",
+        "diabetes",
+        "albuminuria",
+        "ACE inhibitor"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "HTN-009",
+    "title": "Case: 62F Hypertensive with CKD Stage 3, Dose-Adjusted Losartan",
+    "content": "A 62-year-old female with 20-year hypertension and CKD stage 3A (eGFR 43) was on amlodipine 10 mg and HCTZ 25 mg daily with BP 152/86. Urine ACR was 520 mg/g (A2 albuminuria). She had prior ACEi cough with lisinopril. Losartan was initiated at 25 mg daily (reduced dose for CKD). At 2 weeks, K+ increased to 4.7 and creatinine was stable. Losartan was increased to 50 mg, then 100 mg daily. At 6 months, BP reached 124/72 mmHg with stable renal function (creatinine 1.65, K+ 4.8). Urine ACR decreased to 280 mg/g (46% reduction). She remained on amlodipine 10 mg plus losartan for dual-mechanism blockade. This case demonstrates starting ARBs at reduced doses in CKD, close lab monitoring during uptitration, and the additive effect of CCB plus RAAS blockade.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "hypertension",
+    "drug_names": [
+      "losartan",
+      "amlodipine",
+      "hydrochlorothiazide",
+      "lisinopril"
+    ],
+    "metadata": {
+      "tags": [
+        "case study",
+        "CKD stage 3",
+        "losartan"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "HTN-010",
+    "title": "Drug Interaction: ACEi + ARB Combination Risks",
+    "content": "Simultaneous ACEi and ARB use is a Class III Harm recommendation (2024 AHA/ACC). The ONTARGET trial (25,620 patients) found no CV benefit from ramipril 10 mg plus telmisartan 80 mg versus ramipril alone, but significantly higher hypotensive symptoms (4.8% vs 1.7%), syncope, and renal dysfunction (RR 1.33 for doubling creatinine or dialysis). VA NEPHRON-D (1,448 patients with diabetic nephropathy) showed increased AKI (HR 1.76) and hyperkalemia (HR 2.41) without renal outcome benefit. Hyperkalemia above 5.5 mEq/L occurred in 11.2% (combination) versus 4.0% (losartan alone). AKI: 18% versus 11%. The FDA contraindicates combined ACEi, ARB, and aliskiren use in patients with diabetes or moderate-to-severe renal impairment. Rare exceptions (refractory heart failure, proteinuric CKD) require specialist supervision with close K+ monitoring and dietary counseling.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "drug_info",
+    "cohort": "hypertension",
+    "drug_names": [
+      "ramipril",
+      "telmisartan",
+      "losartan",
+      "aliskiren"
+    ],
+    "metadata": {
+      "tags": [
+        "drug interaction",
+        "ACEi+ARB",
+        "ONTARGET",
+        "hyperkalemia"
+      ],
+      "evidence_level": "III Harm",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-011",
+    "title": "Pediatric Hypertension Dosing Guidelines",
+    "content": "The 2024 AAP guideline provides weight-based antihypertensive dosing for children aged 1-17 years with BP at or above the 95th percentile. First-line agents: ACEi, ARBs, CCBs, thiazides. Lisinopril: start 0.07 mg/kg (max 5 mg), max dose 0.6 mg/kg (max 40 mg daily). Amlodipine: 0.06-0.3 mg/kg daily for ages 6-17 (max 10 mg); 0.1 mg/kg daily for ages 1-5. Losartan: start 0.7 mg/kg (max 50 mg), max 1.4 mg/kg (max 100 mg daily). Metoprolol ER: 1.0 mg/kg daily (max 50 mg) for ages 6+, titrating to 2.0 mg/kg (max 200 mg). Beta-blockers reserved for specific indications (aortic coarctation, migraines). BP targets: below 50th percentile for CKD children, below 90th percentile or 130/80 mmHg (whichever is lower) for others. Monitor growth, electrolytes, and renal function. Pregnancy testing required in postmenarchal females before ACEi/ARB initiation.",
+    "source": "AAP Clinical Practice Guideline 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "lisinopril",
+      "amlodipine",
+      "losartan",
+      "metoprolol"
+    ],
+    "metadata": {
+      "tags": [
+        "pediatric",
+        "weight-based dosing",
+        "AAP"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-012",
+    "title": "Elderly Hypertension Target BP and Medication Selection",
+    "content": "The 2024 AHA/ACC guidelines target systolic BP below 130 mmHg for community-dwelling ambulatory adults 65+, based on SPRINT (included patients 75+ with CV mortality benefit). Individualize for limited life expectancy, advanced frailty, or high comorbidity burden. For ages 80+, systolic 130-139 mmHg may balance benefit with orthostasis, falls, and polypharmacy risks. Preferred initial agents: low-dose chlorthalidone 12.5 mg daily or amlodipine 2.5-5 mg daily. ACEi/ARBs in those with diabetes, CKD, or heart failure. Avoid beta-blockers as first-line in uncomplicated elderly hypertension. Start low, go slow: half the usual adult dose, uptitrate over 4-8 weeks. Check orthostatic BP at every visit (systolic drop of 20 mmHg or diastolic drop of 10 mmHg within 3 minutes of standing). Assess fall risk; consider deprescribing with functional decline or persistent orthostasis.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "chlorthalidone",
+      "amlodipine"
+    ],
+    "metadata": {
+      "tags": [
+        "elderly",
+        "frailty",
+        "orthostasis",
+        "deprescribing"
+      ],
+      "evidence_level": "IIA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-013",
+    "title": "Pharmacogenomics of Beta-Blockers: CYP2D6 Polymorphisms",
+    "content": "CYP2D6 metabolizes metoprolol, carvedilol, timolol, and nebivolol. Four phenotypes exist: poor metabolizers (PMs, 7-10% Caucasians), intermediate (IMs), extensive (EMs), and ultrarapid (UMs, 1-2% Caucasians, up to 20-29% in North/East Africans). PMs have 3-10 fold higher metoprolol concentrations with increased bradycardia and hypotension risk. CPIC guidelines recommend 25-50% standard dose in PMs or switch to atenolol/bisoprolol (renally cleared). UMs may need higher doses. Carvedilol PMs show 2-3 fold higher concentrations with increased alpha-1 blockade and orthostasis risk. Routine preemptive CYP2D6 genotyping is not currently recommended by major guidelines due to limited prospective outcome data and the ability to titrate using heart rate endpoints. Consider genotyping with disproportionate bradycardia at low doses or failure to achieve response at maximum doses.",
+    "source": "CPIC Guidelines 2023",
+    "category": "evidence",
+    "cohort": "hypertension",
+    "drug_names": [
+      "metoprolol",
+      "carvedilol",
+      "timolol",
+      "nebivolol",
+      "atenolol",
+      "bisoprolol"
+    ],
+    "metadata": {
+      "tags": [
+        "pharmacogenomics",
+        "CYP2D6",
+        "beta-blocker",
+        "CPIC"
+      ],
+      "evidence_level": "IB",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "HTN-014",
+    "title": "Amlodipine Dosing by Weight and Renal Function",
+    "content": "Amlodipine is a DHP-CCB suitable across patient populations without significant dose adjustment. Standard adult dosing: 2.5-10 mg once daily, most managed on 5 mg. Volume of distribution: ~21 L/kg. Hepatic CYP3A4 metabolism to inactive metabolites; 60% renal metabolite excretion, 10% unchanged. Half-life: 30-50 hours; steady-state at 7-8 days. Not weight-based in adults regardless of BMI. Pediatric dosing (6-17 years): 0.06-0.3 mg/kg daily (max 5-10 mg). No dose adjustment in CKD stages 1-5 including hemodialysis. Hepatic impairment (Child-Pugh B/C): start at 2.5 mg daily, titrate cautiously. CYP3A4 inhibitors (ketoconazole, ritonavir) increase amlodipine 60-100%. CYP3A4 inducers (rifampin) reduce by 60%. Grapefruit juice has minimal clinical significance versus other DHPs.",
+    "source": "Drug Monograph Summary",
+    "category": "drug_info",
+    "cohort": "hypertension",
+    "drug_names": [
+      "amlodipine",
+      "verapamil",
+      "diltiazem"
+    ],
+    "metadata": {
+      "tags": [
+        "amlodipine",
+        "pharmacokinetics",
+        "renal",
+        "obesity"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "HTN-015",
+    "title": "Hypertensive Emergency IV Medication Protocols",
+    "content": "Hypertensive emergency: systolic above 180 mmHg or diastolic above 120 mmHg with acute end-organ damage (encephalopathy, ICH, MI, pulmonary edema, aortic dissection, eclampsia). 2024 AHA/ACC: reduce BP by no more than 25% in the first hour, then to 160/100-110 mmHg over 2-6 hours, gradual normalization over 24-48 hours. First-line IV agents: labetalol (20 mg IV bolus, then 20-80 mg q10min or 0.5-2 mg/min infusion; best for aortic dissection). Nicardipine (5 mg/hr IV, titrate 2.5 mg/hr q5-15min, max 15 mg/hr; preferred for neurologic emergencies). Clevidipine (1-2 mg/hr, double q90sec; 1-minute half-life). Esmolol (500 mcg/kg bolus, then 50-300 mcg/kg/min; 9-minute half-life; ideal for perioperative). Nitroprusside reserved for refractory cases (cyanide toxicity risk). Nitroglycerin (5-100 mcg/min) preferred for ACS or pulmonary edema.",
+    "source": "AHA/ACC Guidelines 2024",
+    "category": "guideline",
+    "cohort": "hypertension",
+    "drug_names": [
+      "labetalol",
+      "nicardipine",
+      "clevidipine",
+      "esmolol",
+      "nitroprusside",
+      "nitroglycerin"
+    ],
+    "metadata": {
+      "tags": [
+        "hypertensive emergency",
+        "IV medications",
+        "critical care"
+      ],
+      "evidence_level": "IC-EO",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-001",
+    "title": "Metformin First-Line Dosing and Titration",
+    "content": "Metformin is the preferred first-line agent for T2DM per 2024 ADA Standards of Care, with efficacy, safety, low cost, and CV benefits (UKPDS). Start at 500 mg once or twice daily with meals to minimize GI effects, or 850 mg once daily (IR). ER formulation: 500 mg daily with evening meal. Titrate by 500 mg weekly or 850 mg every 2 weeks to target 2000 mg daily in divided doses. Maximum: 2550 mg/day (IR) or 2000 mg/day (ER). Contraindicated when eGFR below 30. FDA advises against initiation at eGFR 30-45. For existing patients with eGFR 30-45, reduce to max 1000 mg/day. Risk of metformin-associated lactic acidosis: 3-10 per 100,000 patient-years, higher with renal impairment, hepatic dysfunction, or tissue hypoperfusion. Withhold 24-48 hours before iodinated contrast and during acute illness with dehydration risk. Monitor vitamin B12: deficiency in 6-30% with long-term use due to reduced ileal absorption.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "metformin"
+    ],
+    "metadata": {
+      "tags": [
+        "metformin",
+        "first-line",
+        "titration",
+        "GI intolerance"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-002",
+    "title": "Sulfonylurea Dosing by Renal Function",
+    "content": "Sulfonylureas stimulate insulin secretion via SUR1 binding on beta-cells. The 2024 ADA recognizes them as second-line with strong glucose-lowering but hypoglycemia and weight gain risks. Glipizide is preferred in renal impairment (inactive metabolites). Start 2.5-5 mg daily, titrate by 2.5-5 mg every 1-2 weeks to max 40 mg (most achieve targets at 10-20 mg). Doses above 15 mg should be divided BID. Glyburide is contraindicated when GFR below 60 due to active metabolite accumulation causing prolonged hypoglycemia. Beers criteria strongly recommend against glyburide in older adults. Glimepiride starts at 1-2 mg daily, max 8 mg, partially metabolized by CYP2C9. When GFR below 30, glipizide is the only sulfonylurea recommended by KDIGO (start 2.5 mg daily, cautious uptitration). All sulfonylureas increase hypoglycemia risk in elderly, renally impaired, and those with erratic meals or alcohol use.",
+    "source": "ADA Standards of Care 2024",
+    "category": "drug_info",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "glipizide",
+      "glyburide",
+      "glimepiride"
+    ],
+    "metadata": {
+      "tags": [
+        "sulfonylurea",
+        "renal impairment",
+        "hypoglycemia",
+        "CYP2C9"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-003",
+    "title": "Insulin Initiation and Dose Adjustment Algorithms",
+    "content": "The 2024 ADA Standards provide structured insulin initiation algorithms. Start basal insulin at 10 units daily or 0.1-0.2 units/kg/day. Long-acting analogs: glargine U-100 or detemir once daily; degludec provides 42+ hour duration with flexible dosing. Titrate using treat-to-target: check fasting glucose daily; increase by 2 units every 3 days if above target (80-130 mg/dL), by 4 units if above 180 mg/dL. When basal insulin reaches 0.5 units/kg/day without postprandial control, add prandial insulin: 4 units or 10% of basal dose before largest meal. Premixed insulins (70/30, 75/25) start 6-10 units BID before meals but offer less flexibility. Total daily insulin: 0.4-1.0 units/kg/day, higher in obesity and insulin resistance. Hospitalized patients: basal-bolus-correctional with 50% basal, 50% prandial divided among meals.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "insulin glargine",
+      "insulin detemir",
+      "insulin degludec",
+      "insulin lispro"
+    ],
+    "metadata": {
+      "tags": [
+        "insulin",
+        "basal-bolus",
+        "titration",
+        "treat-to-target"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-004",
+    "title": "SGLT2 Inhibitor Benefits in Diabetic CKD",
+    "content": "SGLT2 inhibitors represent a major advance in diabetic kidney disease. Landmark trials: EMPA-REG OUTCOME (empagliflozin), CANVAS (canagliflozin), DECLARE-TIMI 58 (dapagliflozin), and CREDENCE all demonstrated 30-47% reduction in composite renal endpoint (doubling creatinine, ESRD, renal death). DAPA-CKD showed dapagliflozin 10 mg reduced renal outcome by 39% and all-cause mortality by 31% regardless of diabetes status. 2024 ADA: Class IA recommendation with eGFR as low as 20. KDIGO 2024: initiate with eGFR 20+, continue unless dialysis starts. Renoprotective mechanisms: restoration of tubuloglomerular feedback (increased sodium delivery to macula densa), reduced glomerular hyperfiltration, improved renal oxygenation, attenuated inflammation and fibrosis. Expect acute eGFR dip of 3-5 mL/min reflecting hemodynamic reduction in hyperfiltration (do not discontinue). This dip associates with superior long-term eGFR preservation.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "empagliflozin",
+      "canagliflozin",
+      "dapagliflozin"
+    ],
+    "metadata": {
+      "tags": [
+        "SGLT2 inhibitor",
+        "CKD",
+        "renal protection",
+        "KDIGO"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-005",
+    "title": "GLP-1 Receptor Agonist Dosing Guidelines",
+    "content": "GLP-1 RAs are recommended by 2024 ADA for T2DM with established ASCVD or high CV risk (Class IA, independent of HbA1c). Semaglutide (Ozempic): 0.25 mg weekly x 4 weeks, then 0.5 mg weekly x 4 weeks, then 1.0 mg weekly. SELECT trial showed CV benefit at 2.4 mg in obesity without diabetes. Liraglutide (Victoza): 0.6 mg daily, escalate 0.6 mg weekly to 1.2-1.8 mg (LEADER trial dose). Dulaglutide (Trulicity): 0.75 mg weekly, escalate to 1.5, 3.0, 4.5 mg weekly (REWIND trial CV benefit). Tirzepatide (dual GIP/GLP-1): 2.5 mg weekly, escalate q4w through 5, 7.5, 10, 12.5, to 15 mg. SURPASS trials showed superior HbA1c reduction and weight loss versus semaglutide 1.0 mg. GI adverse effects: nausea 20-45%, vomiting 5-20%, diarrhea 10-20%, dose-dependent, attenuate over 4-8 weeks. Gradual titration is critical. Caution with gastroparesis due to delayed gastric emptying. Hypoglycemia risk low as monotherapy but increases with sulfonylureas or insulin. No renal dose adjustment needed through CKD stage 4.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "semaglutide",
+      "liraglutide",
+      "dulaglutide",
+      "tirzepatide"
+    ],
+    "metadata": {
+      "tags": [
+        "GLP-1 agonist",
+        "cardiovascular",
+        "titration",
+        "weight loss"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-006",
+    "title": "DPP-4 Inhibitor Use in Renal Impairment",
+    "content": "DPP-4 inhibitors provide weight-neutral, well-tolerated glucose lowering with modest HbA1c reduction of 0.5-0.8%. CV outcome trials (SAVOR-TIMI 53, EXAMINE, TECOS, CARMELINA) demonstrate CV safety but not superiority. Renal dose adjustment varies widely. Sitagliptin: primarily renally excreted; reduce to 50 mg daily when eGFR 30-50, 25 mg when eGFR below 30 (standard 100 mg). Saxagliptin: reduce to 2.5 mg daily when eGFR 50 or below (standard 5 mg); caution with heart failure hospitalization risk. Alogliptin: reduce to 12.5 mg when eGFR below 60, 6.25 mg below 30 (standard 25 mg). Linagliptin: unique biliary excretion with negligible renal clearance; no dose adjustment at any CKD stage including ESRD on dialysis. Linagliptin is preferred in advanced CKD though cost may favor adjusted-dose alternatives. Caution with history of pancreatitis (absolute risk 0.1-0.3 per 100 patient-years). Generally not first-line per ADA but useful when metformin is intolerable or additional glucose-lowering is needed without weight gain or hypoglycemia.",
+    "source": "ADA Standards of Care 2024",
+    "category": "drug_info",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "sitagliptin",
+      "saxagliptin",
+      "alogliptin",
+      "linagliptin"
+    ],
+    "metadata": {
+      "tags": [
+        "DPP-4 inhibitor",
+        "renal impairment",
+        "dose adjustment"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-007",
+    "title": "Case: 48M T2DM with HbA1c 8.5%, Metformin 1000 mg BID with Empagliflozin",
+    "content": "A 48-year-old Hispanic male with 3-year T2DM history presented for optimization. Diagnosed at 45 with HbA1c 7.8%; lifestyle and metformin 500 mg BID achieved 7.2% initially. Over 2 years, HbA1c rose to 8.5% despite metformin 1000 mg BID. BMI 31.2, BP 134/82, LDL 124, TG 210. eGFR 92, urine ACR 28. He reported good adherence confirmed by pharmacy refills. Given inadequate control on metformin and obesity with high CV risk, empagliflozin 10 mg daily was added per ADA guidelines. At 3 months: HbA1c 7.6%, BP 128/78, 3 kg weight loss. Empagliflozin increased to 25 mg. At 6 months: HbA1c 7.1%, additional 2 kg weight loss, eGFR stable at 90. No genitourinary infections. This case demonstrates SGLT2 inhibitor add-on to metformin achieving meaningful HbA1c reduction with weight loss and BP improvement in a high-CV-risk obese patient. EMPA-REG OUTCOME supports the CV risk reduction of this strategy.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "metformin",
+      "empagliflozin"
+    ],
+    "metadata": {
+      "tags": [
+        "case study",
+        "SGLT2 inhibitor",
+        "HbA1c",
+        "combination therapy"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "DM-008",
+    "title": "Case: 65F T2DM with GFR 45, Dose-Reduced Sitagliptin",
+    "content": "A 65-year-old African American female with 15-year T2DM and CKD stage 3B (eGFR 45) presented for glycemic optimization. Her diabetes was complicated by neuropathy, retinopathy, and progressive renal decline. Medications: metformin 500 mg BID (max dose for her eGFR), lisinopril 20 mg daily. HbA1c was 8.6% (up from 7.9%), fasting glucose 160-190 mg/dL. Sulfonylureas were contraindicated (prolonged hypoglycemia risk). SGLT2 inhibitors at eGFR 45 offer diminished glycemic efficacy. After shared decision-making, sitagliptin 50 mg daily (renally adjusted from standard 100 mg) was added. At 3 months: HbA1c 7.8%, no hypoglycemia, fasting glucose 130-150 mg/dL, eGFR stable at 44. At 6 months: HbA1c 7.6%. This case illustrates DPP-4 inhibitor utility as safe add-on in moderate renal impairment where many other agents are contraindicated or require substantial dose reduction. Renal dose adjustment of sitagliptin was essential to avoid accumulation while maintaining efficacy.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "metformin",
+      "sitagliptin",
+      "lisinopril",
+      "glyburide"
+    ],
+    "metadata": {
+      "tags": [
+        "case study",
+        "CKD",
+        "sitagliptin",
+        "renal dosing"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "DM-009",
+    "title": "Hypoglycemia Risk with Sulfonylureas in Elderly",
+    "content": "Sulfonylurea-induced hypoglycemia is a major safety concern in adults 65+. The 2024 ADA and AGS Beers Criteria recommend against long-acting sulfonylureas, especially glyburide, in older adults due to prolonged severe hypoglycemia risk. Population studies show sulfonylurea use carries 2-4 fold increased hypoglycemia risk requiring ED visits or hospitalization versus metformin. Glyburide: 1.23 severe events per 100 person-years; glipizide: 0.68; metformin: 0.39. Risk factors: age 75+, renal impairment (eGFR below 60), hepatic dysfunction, erratic meals, alcohol, polypharmacy, cognitive impairment. Consequences include falls, fractures, MVA, arrhythmias, cognitive decline, and mortality. ACCORD trial showed increased mortality with intensive HbA1c targets (below 6.0%), partly driven by severe hypoglycemia. In clinical practice, if sulfonylureas are used in older adults, prefer glipizide (shorter half-life, inactive metabolites), start at 2.5 mg daily, max 10-15 mg. Alternatives with lower hypoglycemia risk: DPP-4 inhibitors, SGLT2 inhibitors, GLP-1 RAs. Deprescribe sulfonylureas when HbA1c below 7.0% or at care transitions.",
+    "source": "ADA Standards of Care 2024",
+    "category": "evidence",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "glyburide",
+      "glipizide",
+      "metformin"
+    ],
+    "metadata": {
+      "tags": [
+        "hypoglycemia",
+        "elderly",
+        "sulfonylurea",
+        "Beers criteria"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-010",
+    "title": "Pharmacogenomics: CYP2C9 and Sulfonylurea Metabolism",
+    "content": "CYP2C9 is the primary enzyme metabolizing sulfonylureas, particularly glyburide and glimepiride; glipizide is less CYP2C9-dependent with mostly inactive metabolites. CPIC guidelines provide genotype-based recommendations for sulfonylurea prescribing. Variant alleles: CYP2C9*2 reduces activity ~30%, CYP2C9*3 reduces activity 80-90% versus wild-type *1. *2 frequency: 12-15% Caucasians, 1-3% African Americans, rare in East Asians. *3 frequency: 6-10% Caucasians, 1-2% African Americans, 2-5% East Asians. Poor metabolizers (two reduced-function alleles) have 2-3 fold reduced clearance and 3-5 fold increased severe hypoglycemia risk. GoDARTS study: CYP2C9 poor metabolizers had 3.4-fold increased odds of severe hypoglycemia. CPIC recommends 50% standard starting dose in intermediate metabolizers (one reduced-function allele) and alternative agents in poor metabolizers. If sulfonylurea must be used in a poor metabolizer, glipizide is preferred (partial metabolism by other pathways), start 2.5 mg daily with cautious titration. Routine preemptive CYP2C9 genotyping is not standard practice currently due to limited prospective data and availability of alternatives with lower hypoglycemia risk.",
+    "source": "CPIC Guidelines 2023",
+    "category": "evidence",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "glyburide",
+      "glimepiride",
+      "glipizide"
+    ],
+    "metadata": {
+      "tags": [
+        "pharmacogenomics",
+        "CYP2C9",
+        "sulfonylurea",
+        "CPIC"
+      ],
+      "evidence_level": "IA",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "DM-011",
+    "title": "Weight-Based Insulin Dosing in Type 2 Diabetes",
+    "content": "Insulin dosing in T2DM uses weight-based algorithms accounting for insulin resistance. Total daily requirement: 0.4-1.0 units/kg/day, most needing 0.5-0.8. Higher BMI (35+) or glucocorticoid use requires upper-range dosing; renal impairment may need 25-50% reduction. Basal insulin initiation: 0.1-0.2 units/kg/day (9-18 units for 90 kg patient). For HbA1c above 9.0% or fasting glucose above 250, use 0.2-0.3 units/kg/day. Titration: if 3-day mean fasting glucose exceeds target (80-130), increase basal by 2 units; if above 180, increase by 4 units, every 3-7 days. When basal reaches 0.5 units/kg/day without postprandial control, add prandial insulin: 4 units or 10% of basal before largest meal. 50/50 rule: 50% total daily as basal, 50% as prandial divided among meals (80 units total = 40 basal + ~13 per meal). For resistance above 1.5 units/kg/day, U-500 regular insulin provides a concentrated option requiring patient education on unique dosing syringe.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "insulin"
+    ],
+    "metadata": {
+      "tags": [
+        "insulin",
+        "weight-based",
+        "basal-bolus",
+        "titration"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-012",
+    "title": "Combination Therapy: Metformin plus SGLT2 Inhibitor",
+    "content": "Metformin plus SGLT2 inhibitor represents guideline-recommended dual therapy with complementary mechanisms. Metformin reduces hepatic glucose production via AMPK and modestly improves insulin sensitivity. SGLT2 inhibitors reduce renal glucose reabsorption causing glycosuria of 60-100 g/day (240-400 kcal/day caloric loss). ADA 2024 recommends metformin first-line with early combination when HbA1c is 1.5-2.0% above target. SGLT2 inhibitors are prioritized in patients with ASCVD, HF, or CKD. The combination provides additive HbA1c reduction of 0.6-0.8% with very low hypoglycemia risk. Weight loss: 2-5 kg. BP reduction: 3-5 mmHg systolic, 1-2 mmHg diastolic. Renal monitoring recommended at baseline and periodically; expect hemodynamic eGFR decline of 3-5 (reversible, associated with superior long-term renal outcomes). Monitor creatinine and eGFR 2-4 weeks after initiation. Additive GI tolerability: metformin causes diarrhea and nausea; SGLT2 inhibitors may cause genitourinary infections. Euglycemic DKA is rare (0.2-0.6 per 1000 patient-years) but should be considered with metabolic acidosis and modest glucose elevations.",
+    "source": "ADA Standards of Care 2024",
+    "category": "drug_info",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "metformin",
+      "empagliflozin",
+      "dapagliflozin",
+      "canagliflozin"
+    ],
+    "metadata": {
+      "tags": [
+        "combination therapy",
+        "metformin",
+        "SGLT2 inhibitor"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-013",
+    "title": "Diabetes and Hypertension Comorbidity Management",
+    "content": "T2DM and hypertension coexist in ~70% of diabetic patients, dramatically amplifying CV disease, stroke, CKD, and retinopathy risk. ADA 2024: BP target below 130/80 in diabetic patients, with more intensive targets for high CV risk if tolerated. First-line: ACEi or ARBs for renoprotection independent of BP lowering. HOPE/MICRO-HOPE substudies: ramipril 10 mg reduced MI, stroke, and CV death by 25% in diabetic patients with 24% reduction in overt nephropathy. Thiazides, CCBs, and vasodilatory beta-blockers (carvedilol, nebivolol) are appropriate second-line. ACCOMPLISH: benazepril plus amlodipine superior to benazepril plus HCTZ. Most diabetic patients need 2-3 agents to achieve target BP. ACEi+ARB combination is contraindicated (ONTARGET, VA NEPHRON-D: hyperkalemia, AKI). SGLT2 inhibitors and GLP-1 RAs contribute 3-5 mmHg systolic reduction. Lifestyle: sodium below 2300 mg/day, weight reduction, alcohol moderation, increased physical activity.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "ramipril",
+      "benazepril",
+      "amlodipine",
+      "hydrochlorothiazide",
+      "carvedilol",
+      "nebivolol"
+    ],
+    "metadata": {
+      "tags": [
+        "comorbidity",
+        "diabetes",
+        "hypertension",
+        "RAAS blockade"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-014",
+    "title": "HbA1c Targets by Age and Comorbidity",
+    "content": "The 2024 ADA Standards individualize glycemic targets away from a one-size-fits-all HbA1c goal. General target for most nonpregnant adults: HbA1c below 7.0% (reduces microvascular complications per DCCT and UKPDS). Less stringent targets (below 8.0%) for limited life expectancy (under 10 years), advanced complications, extensive comorbidities, or severe hypoglycemia history. ACCORD: intensive HbA1c below 6.0% increased CV and all-cause mortality in high-risk patients. For healthy older adults with intact cognition/function: HbA1c below 7.0-7.5%. For multiple chronic conditions, mild-moderate cognitive impairment, or functional dependencies: below 8.0%. For end-stage illness or end-of-life care: avoid symptomatic hyperglycemia and hypoglycemia (HbA1c below 8.5%). For younger patients with new diabetes, no significant CVD, and long life expectancy: HbA1c below 6.5% may be appropriate if achievable without significant hypoglycemia. Pregnancy targets: HbA1c below 6.0-6.5% or fasting glucose below 95 mg/dL and 1-hour postprandial below 140 mg/dL.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [],
+    "metadata": {
+      "tags": [
+        "HbA1c",
+        "individualization",
+        "elderly",
+        "ACCORD trial"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "DM-015",
+    "title": "T2DM Medication Adjustment During Acute Illness",
+    "content": "During acute illness, T2DM patients face risk of hyperglycemia (counterregulatory hormones) and hypoglycemia (reduced oral intake). ADA sick day protocols: discontinue metformin with dehydration, hemodynamic instability, or tissue hypoperfusion risk (sepsis, severe vomiting/diarrhea, acute HF, MI). Withhold SGLT2 inhibitors during gastroenteritis due to volume depletion and AKI risk; also hold 24-48 hours before major surgery; rare euglycemic DKA risk. Reduce sulfonylureas and insulin if oral intake significantly reduced; hold sulfonylureas entirely when NPO. With infection or acute illness and adequate oral intake, insulin requirements commonly increase 10-30% due to counterregulatory hormone-mediated insulin resistance. Monitor glucose every 2-4 hours; check ketones when glucose exceeds 240-300 mg/dL. Supplemental correctional insulin every 4 hours based on point-of-care glucose for patients on insulin. Hospitalized patients: transition to scheduled subcutaneous insulin (basal, nutritional, correction). Discontinue non-insulin agents except in select low-acuity settings with close monitoring.",
+    "source": "ADA Standards of Care 2024",
+    "category": "guideline",
+    "cohort": "diabetes_mellitus",
+    "drug_names": [
+      "metformin",
+      "insulin"
+    ],
+    "metadata": {
+      "tags": [
+        "sick day",
+        "insulin adjustment",
+        "hospital management"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-001",
+    "title": "BSA-Based Chemotherapy Dosing Formulas",
+    "content": "BSA-based dosing remains standard for most cytotoxic chemotherapy despite limitations in interpatient variability. Mosteller formula: BSA (m2) = sqrt[(height cm * weight kg) / 3600]. Du Bois formula: BSA = 0.007184 * weight^0.425 * height^0.725. Typical dosing: doxorubicin 60 mg/m2 (AC regimen with cyclophosphamide 600 mg/m2), paclitaxel 175 mg/m2 q3w or 80 mg/m2 weekly, docetaxel 75-100 mg/m2 q3w, cisplatin 75-100 mg/m2, 5-FU 400-600 mg/m2. BSA dosing assumes clearance proportional to BSA, validated for only a minority of agents. NCCN acknowledges up to 30% interpatient variability and recommends therapeutic drug monitoring for methotrexate and 5-FU. ASCO guideline for obesity: use actual body weight for BSA calculation with full-weight-based dosing; dose reductions based on ideal/adjusted weight are associated with inferior disease-free and overall survival without reduced toxicity. BSA extremes (below 1.5 or above 2.2 m2): consider empiric 10-20% dose adjustment or capping at 2.0-2.2 m2.",
+    "source": "NCCN Guidelines 2024",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "doxorubicin",
+      "cyclophosphamide",
+      "paclitaxel",
+      "docetaxel",
+      "cisplatin",
+      "5-fluorouracil",
+      "methotrexate"
+    ],
+    "metadata": {
+      "tags": [
+        "BSA",
+        "dosing",
+        "chemotherapy",
+        "obesity"
+      ],
+      "evidence_level": "IIA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-002",
+    "title": "Carboplatin AUC Dosing via the Calvert Formula",
+    "content": "Carboplatin uses the Calvert formula: Total dose (mg) = Target AUC * (GFR + 25). Target AUC: 5-6 for untreated patients receiving carboplatin-paclitaxel; 4-5 for prior chemotherapy; 2 for high-dose with stem cell support. The +25 accounts for non-renal clearance (~25 mL/min). Accurate GFR is essential: NCCN recommends direct measurement (Tc-99m DTPA or iohexol clearance) when feasible; otherwise use CKD-EPI equation. Never substitute serum creatinine for GFR in the Calvert formula. Example: GFR 70 mL/min, target AUC 6 = 6 * (70 + 25) = 570 mg. Carboplatin dosing is typically capped at GFR 125 mL/min as clearance does not increase linearly above this threshold. Cockcroft-Gault is an acceptable alternative but may underestimate in obesity and overestimate in elderly.",
+    "source": "NCCN Guidelines 2024",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "carboplatin",
+      "paclitaxel"
+    ],
+    "metadata": {
+      "tags": [
+        "carboplatin",
+        "Calvert formula",
+        "AUC",
+        "GFR"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-003",
+    "title": "Cisplatin Dose Adjustment for Renal Impairment",
+    "content": "Cisplatin causes dose-limiting nephrotoxicity via OCT2-mediated proximal tubular uptake and platinum-DNA adduct accumulation. NCCN dosing by renal function: GFR 60+ = standard 75-100 mg/m2 with aggressive hydration. GFR 45-59 = 50-75% dose with intensive saline hydration plus magnesium and potassium supplementation; mannitol 12.5-25 g IV may enhance diuresis. GFR 30-44 = use only when non-nephrotoxic alternatives are inappropriate, 25-50% dose with nephrology consultation. GFR below 30 = contraindicated; use carboplatin (minimal tubular toxicity). Monitor pre/post-hydration weights, I/O records, daily creatinine, electrolytes (especially magnesium), and urinalysis. Amifostine 740-910 mg/m2 pre-cisplatin may reduce nephrotoxicity and neurotoxicity but is limited by hypotension, nausea, and cost. Avoid concomitant aminoglycosides, NSAIDs, and iodinated contrast. Cisplatin nephrotoxicity is typically cumulative, progressive, and often irreversible.",
+    "source": "NCCN Guidelines 2024",
+    "category": "drug_info",
+    "cohort": "oncology",
+    "drug_names": [
+      "cisplatin",
+      "carboplatin",
+      "amifostine"
+    ],
+    "metadata": {
+      "tags": [
+        "cisplatin",
+        "nephrotoxicity",
+        "renal adjustment",
+        "hydration"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-004",
+    "title": "Doxorubicin Cardiotoxicity Risk and Dose Limits",
+    "content": "Anthracycline cardiotoxicity is the most significant dose-limiting toxicity: acute (days, reversible) or chronic progressive cardiomyopathy (months to years, often irreversible). Cumulative doxorubicin lifetime limit: 450-550 mg/m2. CHF incidence: ~5% at 400 mg/m2, 16% at 500, 26% at 550, 48% above 600. Risk factors: age 65+ or under 18, pre-existing cardiac disease or hypertension, prior mediastinal radiation, concomitant cardiotoxic agents (cyclophosphamide, trastuzumab, paclitaxel), bolus vs continuous infusion. Epirubicin limit: 900 mg/m2. Liposomal doxorubicin: ~800-900 mg/m2 threshold. Dexrazoxane is FDA-approved for cardioprotection at cumulative doses above 300 mg/m2, administered IV at 10:1 ratio (dexrazoxane:doxorubicin) 30 minutes before each dose. Cardiac monitoring: baseline echo or MUGA, repeat at 200-300 mg/m2 cumulative, at completion, and periodically in survivorship (1, 3, 5, 10 years). LVEF decline of 10 percentage points below lower limit of normal or 15+ percentage points from baseline: cardiology consult, ACEi/beta-blocker, consider discontinuing anthracycline.",
+    "source": "ASCO Clinical Practice Guideline 2024",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "doxorubicin",
+      "epirubicin",
+      "dexrazoxane",
+      "cyclophosphamide",
+      "trastuzumab",
+      "paclitaxel"
+    ],
+    "metadata": {
+      "tags": [
+        "cardiotoxicity",
+        "doxorubicin",
+        "cumulative dose",
+        "dexrazoxane"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-005",
+    "title": "5-FU Dosing and DPD Deficiency Screening",
+    "content": "5-FU is a pyrimidine antimetabolite used in colorectal, breast, head and neck, and GI cancers. ~80-85% is catabolized by DPD (encoded by DPYD). Partial DPD deficiency: 3-5% population; complete: 0.1-0.3%. Both result in markedly reduced 5-FU clearance and severe/fatal toxicity (grade 4 neutropenia, mucositis, diarrhea, hand-foot syndrome). CPIC/DPWG recommend preemptive DPYD genotyping. Four clinically actionable DPYD variants: DPYD*2A (rs3918290), DPYD*13 (rs55886062), c.2846A>T (rs67376798), HapB3 (rs75017182). Heterozygotes: 50% dose reduction. Homozygotes/compound heterozygotes: alternative non-fluoropyrimidine agent. Standard regimens: de Gramont (leucovorin 200 mg/m2, 5-FU 400 mg/m2 bolus, then 2400 mg/m2 over 46h q2w); Mayo (leucovorin 20 mg/m2 + 5-FU 425 mg/m2 daily x5d q4-5w). Continuous infusion: less myelosuppression but more hand-foot syndrome. Therapeutic drug monitoring targeting AUC 20-30 mg*h/L improves efficacy and reduces toxicity versus BSA-only dosing.",
+    "source": "CPIC/DPWG Guidelines 2024",
+    "category": "evidence",
+    "cohort": "oncology",
+    "drug_names": [
+      "5-fluorouracil",
+      "capecitabine",
+      "leucovorin"
+    ],
+    "metadata": {
+      "tags": [
+        "5-FU",
+        "DPYD",
+        "DPD deficiency",
+        "pharmacogenomics"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-006",
+    "title": "Paclitaxel Hypersensitivity and Premedication",
+    "content": "Paclitaxel causes hypersensitivity reactions in 25-45% of patients without premedication, ranging from flushing and urticaria to severe anaphylaxis with bronchospasm, hypotension, and cardiovascular collapse. Reactions are attributed to both the drug and the Cremophor EL vehicle which activates complement and mast cells. NCCN mandates premedication 30-60 minutes before each paclitaxel infusion: dexamethasone 20 mg PO/IV, diphenhydramine 50 mg IV, H2 antagonist (famotidine 20 mg IV or ranitidine 50 mg IV). With premedication, severe reactions decrease to below 2%. For mild reactions (grade 1-2) despite premedication: interrupt infusion, manage with additional diphenhydramine, corticosteroids, bronchodilators; resume at slower rate after symptom resolution. For moderate-severe reactions: consider desensitization or switch to nab-paclitaxel (Abraxane, albumin-bound, no Cremophor, no premedication required, 30-minute infusion, 100-260 mg/m2). Standard paclitaxel regimens: 175 mg/m2 over 3h q3w, 80 mg/m2 weekly, or dose-dense 175 mg/m2 q2w with G-CSF. Metabolized by CYP2C8 and CYP3A4; adjust for strong inhibitors/inducers. Peripheral neuropathy is the primary dose-limiting toxicity, cumulative and often irreversible.",
+    "source": "NCCN Guidelines 2024",
+    "category": "drug_info",
+    "cohort": "oncology",
+    "drug_names": [
+      "paclitaxel",
+      "dexamethasone",
+      "diphenhydramine",
+      "famotidine",
+      "ranitidine",
+      "nab-paclitaxel"
+    ],
+    "metadata": {
+      "tags": [
+        "paclitaxel",
+        "hypersensitivity",
+        "premedication",
+        "Cremophor"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-007",
+    "title": "Case: 55F Breast Cancer, Dose-Dense AC-T Protocol",
+    "content": "A 55-year-old postmenopausal female with stage IIB (T2N1M0) HR+/HER2- invasive ductal carcinoma received dose-dense AC-T: doxorubicin 60 mg/m2 + cyclophosphamide 600 mg/m2 q2w x4, then paclitaxel 175 mg/m2 q2w x4. BSA 1.73 m2 yielded doxorubicin 104 mg, cyclophosphamide 1038 mg per cycle. Baseline echo: LVEF 62%. Pegfilgrastim 6 mg SC 24h post-chemo for primary febrile neutropenia prophylaxis. Paclitaxel premedication: dexamethasone 20 mg, diphenhydramine 50 mg, famotidine 20 mg. She tolerated AC cycles with grade 1 fatigue and nausea controlled with ondansetron and dexamethasone. No neutropenic fever or cardiac symptoms. During paclitaxel cycle 1, grade 2 peripheral neuropathy developed; dose reduced to 140 mg/m2 (20% reduction) for cycle 3 per NCCN, stabilizing neuropathy. End-of-treatment echo: LVEF 58%. Cumulative doxorubicin: 240 mg/m2, well below the 450 mg/m2 threshold. Post-chemo: radiation then anastrozole 1 mg daily x5-10 years. At 12 months: LVEF 57%, neuropathy improved to grade 1. This case illustrates dose-dense scheduling with G-CSF support, dose modification for neuropathy, and serial cardiac monitoring during anthracycline regimens.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "oncology",
+    "drug_names": [
+      "doxorubicin",
+      "cyclophosphamide",
+      "paclitaxel",
+      "pegfilgrastim",
+      "ondansetron",
+      "dexamethasone",
+      "diphenhydramine",
+      "famotidine",
+      "anastrozole"
+    ],
+    "metadata": {
+      "tags": [
+        "breast cancer",
+        "dose-dense AC-T",
+        "cardiotoxicity",
+        "neuropathy"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "ONC-008",
+    "title": "Case: 70M Lung Cancer with GFR 50, Carboplatin Dose Adjustment",
+    "content": "A 70-year-old male with stage IV NSCLC (adenocarcinoma, EGFR/ALK/ROS1 wild-type, PD-L1 60%) was initiated on carboplatin-pemetrexed-pembrolizumab. Baseline: creatinine 1.5 mg/dL, weight 78 kg, age 70. CKD-EPI eGFR = 50 (CKD stage 3A). Calvert formula with target AUC 5: 5 * (50 + 25) = 375 mg carboplatin. Cycle 1: carboplatin 375 mg with pemetrexed 500 mg/m2 and pembrolizumab 200 mg. Pre/post-hydration with NS at 250 mL/hr x4h. Grade 1 fatigue, no hematologic toxicity. Cycle 2: creatinine improved to 1.4, eGFR 54. Recalculated dose: 5 * (54 + 25) = 395 mg. After 4 cycles: partial response with 55% target lesion reduction. Continued pembrolizumab 200 mg q3w maintenance. Renal function remained stable (eGFR 50-56). This case emphasizes recalculating carboplatin each cycle using the most recent creatinine and weight; the Calvert formula ensures consistent systemic exposure across cycles despite fluctuating renal function.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "oncology",
+    "drug_names": [
+      "carboplatin",
+      "pemetrexed",
+      "pembrolizumab"
+    ],
+    "metadata": {
+      "tags": [
+        "lung cancer",
+        "carboplatin",
+        "Calvert formula",
+        "CKD"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "ONC-009",
+    "title": "Immunotherapy Dosing: Checkpoint Inhibitors",
+    "content": "Immune checkpoint inhibitors (anti-PD-1: pembrolizumab, nivolumab; anti-PD-L1: atezolizumab, durvalumab, avelumab; anti-CTLA-4: ipilimumab) differ fundamentally from cytotoxic chemotherapy in dosing. Target-mediated drug disposition results in receptor occupancy saturation at low concentrations, producing flat exposure-response across wide dose ranges. Pembrolizumab: initially 2 mg/kg q3w, now fixed 200 mg q3w or 400 mg q6w. Nivolumab: 240 mg q2w or 480 mg q4w. Ipilimumab: 3 mg/kg q3w (melanoma adjuvant) or 1 mg/kg with nivolumab. Atezolizumab: 840 mg q2w, 1200 mg q3w, or 1680 mg q4w. Fixed dosing has largely replaced weight-based. No dose adjustment needed for renal impairment or mild-moderate hepatic impairment. Immune-related adverse events (irAEs) determine management: grade 1 = continue with monitoring; grade 2 = withhold, consider prednisone 0.5-1 mg/kg/day; grade 3-4 = permanently discontinue, high-dose corticosteroids (methylprednisolone 1-2 mg/kg/day), add infliximab or mycophenolate for steroid-refractory cases.",
+    "source": "NCCN Guidelines 2024",
+    "category": "drug_info",
+    "cohort": "oncology",
+    "drug_names": [
+      "pembrolizumab",
+      "nivolumab",
+      "ipilimumab",
+      "atezolizumab",
+      "durvalumab",
+      "avelumab"
+    ],
+    "metadata": {
+      "tags": [
+        "immunotherapy",
+        "checkpoint inhibitor",
+        "irAE",
+        "fixed dosing"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-010",
+    "title": "Chemotherapy-Induced Neutropenia Management",
+    "content": "Chemotherapy-induced neutropenia is the most common dose-limiting toxicity. Febrile neutropenia (ANC below 500 and temp 38.3C+) occurs in 5-30% of patients. NCCN/ASCO: primary G-CSF prophylaxis when febrile neutropenia risk exceeds 20%. High-risk regimens: dose-dense AC-T, TCH, CHOP-R. Filgrastim 5 mcg/kg/day SC starting 24-72h post-chemo until ANC recovery to 2000-3000 (typically 7-10 days). Pegfilgrastim 6 mg SC single dose 24h post-chemo is the preferred agent for most regimens. Secondary prophylaxis for patients with prior neutropenic event when maintaining dose intensity is important for curative outcomes. G-CSF must not be given same day as chemotherapy (minimum 24h interval). Most common adverse effect: bone pain in 20-30%, managed with NSAIDs or antihistamines. Intermediate risk (10-20%): consider risk factors (age 65+, prior chemo/radiation, bone marrow involvement, poor performance status, nutritional deficiency). Dose-dense regimens fundamentally depend on G-CSF support.",
+    "source": "NCCN/ASCO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "filgrastim",
+      "pegfilgrastim",
+      "doxorubicin",
+      "cyclophosphamide",
+      "paclitaxel"
+    ],
+    "metadata": {
+      "tags": [
+        "neutropenia",
+        "G-CSF",
+        "growth factor",
+        "febrile neutropenia"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-011",
+    "title": "Pharmacogenomics: TPMT and 6-Mercaptopurine Dosing",
+    "content": "TPMT catalyzes S-methylation of thiopurines (6-MP, azathioprine, thioguanine), diverting from cytotoxic thioguanine nucleotides. Trimodal activity: ~89-90% homozygous wild-type with normal activity, ~10% heterozygous with intermediate activity, ~0.3% homozygous variant with absent activity. Key variant alleles: TPMT*2, TPMT*3A, TPMT*3C. CPIC dosing for ALL: normal activity = standard 75 mg/m2/day 6-MP, adjusted for myelosuppression (target ANC 500-1500). Intermediate (heterozygous) = 30-70% standard dose (30-50 mg/m2/day) due to 2-4 fold higher thioguanine nucleotide concentrations. Poor metabolizers = 10% standard dose (10 mg/m2/day) given 3x weekly, not daily; standard doses cause life-threatening myelosuppression within 2-4 weeks. Preemptive TPMT genotyping is standard of care in pediatric ALL and FDA-recommended for 6-MP and azathioprine. Allopurinol inhibits xanthine oxidase requiring 65-75% 6-MP dose reduction to prevent severe toxicity.",
+    "source": "CPIC Guidelines 2023",
+    "category": "evidence",
+    "cohort": "oncology",
+    "drug_names": [
+      "6-mercaptopurine",
+      "azathioprine",
+      "thioguanine",
+      "allopurinol"
+    ],
+    "metadata": {
+      "tags": [
+        "TPMT",
+        "6-MP",
+        "pharmacogenomics",
+        "thiopurine"
+      ],
+      "evidence_level": "IA",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "ONC-012",
+    "title": "Targeted Therapy: Tyrosine Kinase Inhibitor Dosing",
+    "content": "TKIs represent a paradigm shift from cytotoxic chemotherapy to molecularly targeted oral agents. Dosing is fixed rather than BSA-based; variability depends on hepatic metabolism, drug interactions, and pharmacogenomics. Imatinib: 400 mg daily for chronic phase CML, 600-800 mg for accelerated/blast phase targeting BCR-ABL. Dasatinib 100 mg daily and nilotinib 300 mg BID are second-generation. Erlotinib 150 mg daily and gefitinib 250 mg daily target EGFR mutations in NSCLC. Osimertinib 80 mg daily is preferred first-line EGFR TKI with superior PFS and CNS penetration. Sunitinib 50 mg daily (4 weeks on/2 off) and sorafenib 400 mg BID are multikinase inhibitors for RCC and HCC. Drug interactions are critical: many TKIs are CYP3A4 substrates; strong inhibitors increase exposure 2-5 fold while strong inducers reduce exposure 70-90%. PPIs reduce absorption of dasatinib, erlotinib, and gefitinib. Imatinib needs no renal adjustment; hepatic impairment often requires dose reduction (imatinib 300 mg in moderate-severe disease). Adherence is critical: short CML treatment interruptions can cause loss of molecular response.",
+    "source": "NCCN Guidelines 2024",
+    "category": "drug_info",
+    "cohort": "oncology",
+    "drug_names": [
+      "imatinib",
+      "dasatinib",
+      "nilotinib",
+      "erlotinib",
+      "gefitinib",
+      "osimertinib",
+      "sunitinib",
+      "sorafenib"
+    ],
+    "metadata": {
+      "tags": [
+        "TKI",
+        "targeted therapy",
+        "CML",
+        "drug interactions",
+        "CYP3A4"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-013",
+    "title": "Chemotherapy Dosing in Obese Patients: Actual vs Ideal Body Weight",
+    "content": "Obesity (BMI 30+) affects ~35% of oncology patients. ASCO 2021 guideline (Grade IA): use actual body weight for BSA calculation with full weight-based dosing. Dose reductions based on ideal or adjusted body weight are associated with inferior disease-free and overall survival without significantly reduced toxicity. Example: 120 kg, 160 cm patient (BMI 46.9, BSA 2.23 m2), doxorubicin 60 mg/m2 = 134 mg. Do not arbitrarily cap at BSA 2.0 m2. Carboplatin: use Cockcroft-Gault with actual body weight; in BMI 40+, adjusted body weight may be more accurate. Some centers cap Calvert GFR at 125 mL/min. Vincristine and vinblastine are capped at 2 mg regardless of BSA. The guideline emphasizes: fear of increased toxicity in obese patients is not evidence-based, and underdosing compromises curative outcomes.",
+    "source": "ASCO Clinical Practice Guideline 2021",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "doxorubicin",
+      "carboplatin",
+      "vincristine",
+      "vinblastine"
+    ],
+    "metadata": {
+      "tags": [
+        "obesity",
+        "BSA",
+        "chemotherapy dosing",
+        "ASCO"
+      ],
+      "evidence_level": "IA",
+      "year": 2021
+    }
+  },
+  {
+    "doc_id": "ONC-014",
+    "title": "Antiemetic Prophylaxis by Emetogenicity Level",
+    "content": "NCCN/ASCO classify chemotherapy by emetogenicity. High emetogenic (HEC, >90% risk): cisplatin 50+ mg/m2, AC (doxorubicin+cyclophosphamide), cyclophosphamide 1500+ mg/m2. Four-drug regimen: NK1 antagonist (aprepitant 125 mg PO day 1 then 80 mg days 2-3; or fosaprepitant 150 mg IV day 1), 5-HT3 antagonist (palonosetron 0.25 mg IV or ondansetron 16-24 mg PO/8-16 mg IV), dexamethasone 12 mg day 1 then 8 mg days 2-4, and olanzapine 10 mg PO days 1-4. Olanzapine improves complete response from 65% to 75% (acute) and 50% to 65% (delayed). Moderate emetogenic (MEC, 30-90%): carboplatin AUC 4+, irinotecan, oxaliplatin. Three-drug: 5-HT3 antagonist, dexamethasone 8-12 mg day 1, +/- NK1 antagonist for carboplatin. Low emetogenic (10-30%): paclitaxel, docetaxel, pemetrexed, 5-FU. Single agent (dexamethasone 8-12 mg or 5-HT3 antagonist). Minimal (<10%): vincristine, bleomycin, vinblastine; no routine prophylaxis. Breakthrough: add agent from different class (olanzapine, metoclopramide, haloperidol, lorazepam, cannabinoids).",
+    "source": "NCCN Antiemesis Guidelines 2024",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "cisplatin",
+      "doxorubicin",
+      "cyclophosphamide",
+      "aprepitant",
+      "fosaprepitant",
+      "palonosetron",
+      "ondansetron",
+      "dexamethasone",
+      "olanzapine",
+      "carboplatin"
+    ],
+    "metadata": {
+      "tags": [
+        "antiemetic",
+        "CINV",
+        "emetogenicity",
+        "olanzapine"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "ONC-015",
+    "title": "Cumulative Anthracycline Dose Monitoring",
+    "content": "Cumulative anthracycline dose monitoring prevents irreversible cardiomyopathy. ASCO 2024 lifetime limits: doxorubicin 450-550 mg/m2, daunorubicin 550, epirubicin 900, idarubicin 290, mitoxantrone 160. Equivalent doxorubicin dose conversion: epirubicin * 0.67, daunorubicin * 0.83, idarubicin * 2.0, mitoxantrone * 2.2. Example: 300 mg/m2 doxorubicin + 300 mg/m2 epirubicin = 300 + (300*0.67) = 501 mg/m2 equivalent, near elevated risk threshold. Liposomal doxorubicin: ~800-900 mg/m2 threshold. Pediatric patients: COG recommends lifetime cumulative doxorubicin max 300-360 mg/m2. Baseline echo required; repeat at 200-300 mg/m2 cumulative, at therapy completion, and at 1, 3, 5, 10 years. For pre-existing CVD, borderline LVEF (50-55%), or concomitant trastuzumab: individualize risk-benefit and strongly consider dexrazoxane cardioprotection. Delayed-onset cardiomyopathy may present years after treatment, most common in childhood-treated patients, those over 65 at treatment, or those receiving cumulative doses above 300 mg/m2.",
+    "source": "ASCO Clinical Practice Guideline 2024",
+    "category": "guideline",
+    "cohort": "oncology",
+    "drug_names": [
+      "doxorubicin",
+      "daunorubicin",
+      "epirubicin",
+      "idarubicin",
+      "mitoxantrone",
+      "trastuzumab"
+    ],
+    "metadata": {
+      "tags": [
+        "anthracycline",
+        "cumulative dose",
+        "cardiotoxicity",
+        "survivorship"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-001",
+    "title": "Drug Dosing in CKD Stages 1-5: Overview",
+    "content": "CKD alters drug pharmacokinetics through multiple mechanisms affecting absorption, distribution, metabolism, and elimination. KDIGO 2024 provides a stage-based framework. CKD stage 1 (eGFR 90+ with kidney damage): no dose adjustment for most drugs; avoid nephrotoxic agents (NSAIDs, aminoglycosides, IV contrast). Stage 2 (eGFR 60-89): most drugs need no adjustment; monitor narrow therapeutic index drugs (digoxin, lithium, methotrexate). Stage 3A (eGFR 45-59): moderate dose reduction for drugs with 50%+ renal elimination; metformin max 1000 mg/day; caution initiating at eGFR below 45. Stage 3B (eGFR 30-44): substantial reduction for many renally cleared antibiotics (beta-lactams, fluoroquinolones, TMP-SMX); enoxaparin requires dose reduction and anti-Xa monitoring. Stage 4 (eGFR 15-29): most renally cleared drugs need 50-75% reduction or extended intervals; metformin contraindicated. Stage 5 (eGFR below 15 or dialysis): dosing guided by residual renal function, dialysis clearance, and post-dialysis supplemental dosing. High protein-bound drugs (phenytoin, warfarin, valproic acid) may show altered free fraction in uremia; monitor free drug concentrations where available. GI absorption may be reduced in advanced CKD due to uremic gastroenteropathy, gut wall edema, and phosphate binders.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "digoxin",
+      "lithium",
+      "methotrexate",
+      "metformin",
+      "enoxaparin",
+      "phenytoin",
+      "warfarin",
+      "valproic acid"
+    ],
+    "metadata": {
+      "tags": [
+        "CKD",
+        "dose adjustment",
+        "renal clearance",
+        "KDIGO"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-002",
+    "title": "Aminoglycoside Dosing in Renal Impairment",
+    "content": "Aminoglycosides (gentamicin, tobramycin, amikacin) are almost exclusively eliminated by glomerular filtration with clearance directly proportional to GFR. Normal renal function: gentamicin/tobramycin 3-5 mg/kg/day divided q8h; amikacin 15 mg/kg/day. Targets: peak 5-10 mcg/mL (gentamicin/tobramycin) or 20-30 mcg/mL (amikacin); trough below 2 and 5 mcg/mL respectively to minimize nephrotoxicity. In renal impairment, two approaches per 2024 IDSA: extended-interval (once-daily) dosing for GFR above 30 (5-7 mg/kg q24-48h with interval adjusted for renal function), or traditional multiple-daily dosing with extended intervals proportional to creatinine elevation. Therapeutic drug monitoring is essential: for extended-interval, a single random level at 6-14h post-dose is plotted on the Hartford nomogram to determine q24h/q36h/q48h interval. Aminoglycosides themselves are nephrotoxic (especially courses exceeding 7-10 days, concurrent vancomycin, elderly, volume depletion). Nephrotoxicity manifests as nonoliguric ATN with granular casts, enzymuria, and rising creatinine at 5-7 days. Ototoxicity (cochlear and vestibular) is independent of nephrotoxicity, often irreversible. In hemodialysis, aminoglycosides are efficiently removed (~50% during 4h session); supplemental post-dialysis dosing is required.",
+    "source": "IDSA Guidelines 2024",
+    "category": "drug_info",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "gentamicin",
+      "tobramycin",
+      "amikacin",
+      "vancomycin"
+    ],
+    "metadata": {
+      "tags": [
+        "aminoglycoside",
+        "renal impairment",
+        "TDM",
+        "Hartford nomogram"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-003",
+    "title": "Vancomycin Therapeutic Drug Monitoring in CKD",
+    "content": "Vancomycin requires therapeutic drug monitoring due to its narrow therapeutic index and primarily renal elimination. In patients with normal renal function, vancomycin is typically dosed at 15-20 mg/kg q8-12h based on actual body weight. Target trough concentrations: 15-20 mcg/mL for serious MRSA infections (bacteremia, endocarditis, osteomyelitis, hospital-acquired pneumonia); 10-15 mcg/mL for less severe infections. In CKD, the dosing interval is extended based on estimated creatinine clearance: CrCl 50-90 = q12h; CrCl 30-49 = q24h; CrCl 15-29 = q36-48h; CrCl below 15 = q48-96h guided by random concentrations. The 2020 IDSA vancomycin guideline now recommends AUC-guided dosing (target AUC/MIC 400-600) using Bayesian software rather than trough-only monitoring, as AUC correlates better with efficacy and reduces nephrotoxicity risk. In hemodialysis, vancomycin is poorly removed by low-flux membranes (20-30%) but significantly removed by high-flux membranes (30-50%). Loading dose of 20-25 mg/kg followed by maintenance doses of 10-15 mg/kg after each dialysis session is common. Pre-dialysis random concentrations guide post-dialysis dosing. Vancomycin itself is nephrotoxic, with risk increasing when troughs exceed 20 mcg/mL, with concurrent nephrotoxins (aminoglycosides, IV contrast, loop diuretics), prolonged therapy beyond 7 days, and in ICU patients. Red man syndrome (histamine-mediated infusion reaction) is rate-dependent, not allergic, and managed by slowing infusion rate and premedication with antihistamines.",
+    "source": "IDSA Guidelines 2020",
+    "category": "drug_info",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "vancomycin"
+    ],
+    "metadata": {
+      "tags": [
+        "vancomycin",
+        "TDM",
+        "AUC",
+        "CKD"
+      ],
+      "evidence_level": "IA",
+      "year": 2020
+    }
+  },
+  {
+    "doc_id": "REN-004",
+    "title": "NSAID Avoidance in CKD Patients",
+    "content": "Nonsteroidal anti-inflammatory drugs (NSAIDs) are strongly discouraged in patients with CKD due to established risks of hemodynamically mediated acute kidney injury, sodium and water retention, hyperkalemia, and acceleration of CKD progression. NSAIDs inhibit cyclooxygenase (COX-1 and COX-2), reducing prostaglandin synthesis. Prostaglandins maintain afferent arteriolar vasodilation, particularly important when renal perfusion is compromised (volume depletion, heart failure, cirrhosis, advanced age). NSAID-mediated afferent arteriolar vasoconstriction combined with RAAS blocker-mediated efferent arteriolar vasodilation can precipitate severe reductions in GFR, acutely decreasing eGFR by 30-50% or causing overt AKI. This triple whammy effect (NSAID + RAAS blocker + diuretic) is a well-recognized cause of severe AKI in patients with CKD. KDIGO 2024 recommends complete NSAID avoidance when eGFR is below 30 mL/min/1.73m2, and restricted use with close monitoring when eGFR is 30-60. If NSAIDs are necessary (e.g., acute gout, severe osteoarthritis), prefer short-acting agents (ibuprofen, indomethacin) at the lowest effective dose for the shortest duration. COX-2 selective inhibitors (celecoxib) do not spare renal effects despite reduced GI toxicity; the same renal precautions apply. Topical NSAIDs (diclofenac gel) have lower systemic absorption and may be safer alternatives. Acetaminophen is the preferred analgesic in CKD, though doses should not exceed 3 g/day in advanced CKD.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "ibuprofen",
+      "indomethacin",
+      "celecoxib",
+      "diclofenac",
+      "acetaminophen"
+    ],
+    "metadata": {
+      "tags": [
+        "NSAID",
+        "CKD",
+        "AKI",
+        "prostaglandin"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-005",
+    "title": "Case: 72M CKD Stage 4, Medication Review and Dose Adjustments",
+    "content": "A 72-year-old male with CKD stage 4 (eGFR 22 mL/min/1.73m2) secondary to diabetic nephropathy and hypertension presented for comprehensive medication review. Current medications included metformin 1000 mg BID (contraindicated at this eGFR), lisinopril 40 mg daily, amlodipine 10 mg daily, furosemide 80 mg BID, atorvastatin 40 mg, gabapentin 300 mg TID for neuropathy, and over-the-counter ibuprofen for osteoarthritis. Labs: creatinine 2.8 mg/dL, K+ 5.8 mEq/L (critical), HbA1c 7.4%. Immediate interventions: metformin was discontinued (contraindicated below eGFR 30); gabapentin was reduced from 300 mg TID to 100 mg at bedtime (renally adjusted); ibuprofen was discontinued (NSAID avoidance in CKD stage 4) and replaced with acetaminophen for pain; insulin glargine was initiated at 10 units daily for glycemic control. Lisinopril was temporarily held due to hyperkalemia (K+ 5.8). Potassium was reduced to 5.1 after 72 hours of dietary counseling and furosemide optimization. Lisinopril was restarted at 20 mg daily with close monitoring. At 2-week follow-up: K+ 4.9, creatinine 2.7 (stable), HbA1c trending down. This case illustrates the necessity of systematic medication review in advanced CKD: discontinuing contraindicated drugs (metformin), renally adjusting others (gabapentin), avoiding nephrotoxins (NSAIDs), and managing RAAS blocker-induced hyperkalemia.",
+    "source": "Clinical Case Repository",
+    "category": "case_study",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "metformin",
+      "lisinopril",
+      "amlodipine",
+      "furosemide",
+      "atorvastatin",
+      "gabapentin",
+      "ibuprofen",
+      "acetaminophen",
+      "insulin glargine"
+    ],
+    "metadata": {
+      "tags": [
+        "case study",
+        "CKD stage 4",
+        "medication review",
+        "polypharmacy"
+      ],
+      "evidence_level": "case_report",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "REN-006",
+    "title": "Drug Accumulation Risks in ESRD",
+    "content": "End-stage renal disease (ESRD, eGFR below 15 mL/min/1.73m2 or on dialysis) creates significant risks for drug accumulation. Renally cleared drugs with active or toxic metabolites require dose reduction and extended dosing intervals. Key principles: determine the fraction of drug excreted unchanged in urine (fe). If fe exceeds 50%, substantial dose adjustment is required. Loading doses are generally unchanged in ESRD since volume of distribution is not significantly altered. Maintenance doses are reduced by either decreasing the dose while keeping the interval constant, or extending the interval while keeping the dose constant. Universal ESRD precautions include avoiding nephrotoxic agents entirely, monitoring drug levels when available (vancomycin, aminoglycosides, digoxin, lithium, phenytoin free levels), and recognizing that uremia alters protein binding for acidic drugs (phenytoin, valproic acid, warfarin), making total drug levels misleading. Dialysis removes drugs based on molecular weight (below 500 Da cleared efficiently; above 5000 Da not cleared), protein binding (highly bound drugs not cleared), and volume of distribution (drugs with Vd above 1 L/kg not significantly cleared). Supplemental dosing post-hemodialysis is required for dialyzable drugs with narrow therapeutic indices. Drugs commonly requiring post-dialysis supplementation include most beta-lactam antibiotics, vancomycin (with high-flux membranes), aminoglycosides, and water-soluble vitamins.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "vancomycin",
+      "digoxin",
+      "lithium",
+      "phenytoin",
+      "valproic acid",
+      "warfarin"
+    ],
+    "metadata": {
+      "tags": [
+        "ESRD",
+        "drug accumulation",
+        "dialysis",
+        "protein binding"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-007",
+    "title": "Contrast-Induced Nephropathy Prevention",
+    "content": "Contrast-induced nephropathy (CIN) is defined as a 25% or 0.5 mg/dL rise in serum creatinine within 48-72 hours of iodinated contrast administration, with peak at 3-5 days and recovery typically within 7-14 days. Risk factors: baseline CKD (especially eGFR below 30), diabetes with CKD, age above 75, heart failure, volume depletion, concomitant nephrotoxic drugs, and high contrast volume. Prevention strategies per KDIGO 2024: isotonic IV fluids are the cornerstone. Normal saline (0.9%) or isotonic sodium bicarbonate at 1-3 mL/kg/hr for 1 hour pre-contrast and 4-12 hours post-contrast is recommended for high-risk patients. Oral hydration alone is insufficient. Hold metformin 24-48 hours before contrast and for 48 hours after; restart only after confirming stable renal function. Hold NSAIDs, diuretics, and RAAS blockers if clinically appropriate. Use the lowest possible contrast volume and iso-osmolar or low-osmolar nonionic contrast agents. N-acetylcysteine (600-1200 mg BID day before and day of procedure) has shown mixed results in meta-analyses and is no longer routinely recommended by KDIGO though still used in some centers. Statin pretreatment may provide additional renoprotection. Prophylactic hemodialysis immediately after contrast is not recommended as it does not reduce CIN incidence.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "metformin",
+      "N-acetylcysteine"
+    ],
+    "metadata": {
+      "tags": [
+        "contrast nephropathy",
+        "CIN",
+        "hydration",
+        "prevention"
+      ],
+      "evidence_level": "IB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-008",
+    "title": "Pharmacokinetic Changes in Renal Impairment",
+    "content": "Renal impairment alters drug pharmacokinetics beyond simply reduced glomerular filtration. Absorption: delayed gastric emptying in uremia, increased gastric pH from ammonia production, gut wall edema, and phosphate binders chelating coadministered drugs all reduce oral bioavailability of many medications. Distribution: hypoalbuminemia from proteinuria and malnutrition decreases protein binding of acidic drugs (phenytoin, valproic acid, warfarin, furosemide), increasing free fraction and pharmacologic effect despite normal or low total drug levels. Alpha-1 acid glycoprotein (binds basic drugs) is often elevated. Volume of distribution for water-soluble drugs may increase from edema and ascites. Metabolism: hepatic CYP450 enzymes are variably affected; some pathways are downregulated by uremic toxins (CYP3A4, CYP2C9) while others are preserved. Non-renal clearance pathways may be upregulated, partially compensating. Elimination: reduced glomerular filtration is the primary alteration, but tubular secretion (via OAT and OCT transporters) is also impaired, affecting drugs like cimetidine, procainamide, methotrexate. Accumulation of uremic toxins competitively inhibits drug transporters and plasma protein binding. The Cockcroft-Gault, MDRD, and CKD-EPI equations estimate renal function but each has limitations in specific populations. Direct GFR measurement (iohexol or iothalamate clearance) may be warranted for critical dose drugs in patients with abnormal body composition.",
+    "source": "Clinical Pharmacology Reference",
+    "category": "evidence",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "phenytoin",
+      "valproic acid",
+      "warfarin",
+      "furosemide",
+      "cimetidine",
+      "procainamide",
+      "methotrexate"
+    ],
+    "metadata": {
+      "tags": [
+        "pharmacokinetics",
+        "renal impairment",
+        "protein binding",
+        "metabolism"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-009",
+    "title": "Dialysis and Medication Dosing Schedules",
+    "content": "Hemodialysis significantly affects drug pharmacokinetics through drug removal during the dialysis procedure and requires careful timing of medication administration. Drugs with low molecular weight (below 500 Da), low protein binding (below 80%), small volume of distribution (below 1 L/kg), and high water solubility are most efficiently removed by hemodialysis. Beta-lactam antibiotics (penicillins, cephalosporins, carbapenems) are substantially cleared during a 4-hour high-flux hemodialysis session, requiring post-dialysis supplemental dosing. Vancomycin is poorly removed by low-flux membranes (20-30%) but significantly cleared by high-flux membranes (30-50%), making post-dialysis level monitoring essential. Aminoglycosides are approximately 50% cleared per session. Timing strategy depends on whether the drug is dosed for systemic effect or peak-dependent efficacy. For concentration-dependent antibiotics (aminoglycosides), administer the full dose after dialysis. For time-dependent antibiotics (beta-lactams), administer a supplemental dose after dialysis to maintain levels above MIC. Drugs that should be administered after dialysis include most antibiotics, water-soluble vitamins (B-complex, vitamin C), and antihypertensives when intradialytic hypotension is a concern. Drugs held before dialysis include those efficiently removed (to avoid subtherapeutic levels during the interdialytic period). Peritoneal dialysis removes drugs less efficiently than hemodialysis; dosing generally follows CKD stage 5 recommendations without supplemental post-PD dosing.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "guideline",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "vancomycin"
+    ],
+    "metadata": {
+      "tags": [
+        "dialysis",
+        "drug removal",
+        "post-dialysis dosing",
+        "antibiotics"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "REN-010",
+    "title": "Renal Drug Clearance Estimation Methods: Cockcroft-Gault, MDRD, CKD-EPI",
+    "content": "Accurate renal function estimation is critical for drug dosing, yet the three commonly used equations produce different results in specific populations. Cockcroft-Gault (CG): CrCl (mL/min) = [(140 - age) * weight kg * (0.85 if female)] / (72 * serum creatinine mg/dL). CG estimates creatinine clearance, not GFR, and includes tubular secretion of creatinine, making it systematically higher than measured GFR (by 10-40%) especially at lower GFRs. CG uses actual body weight and was the equation used in most FDA drug labeling studies. MDRD: eGFR = 175 * (SCr)^-1.154 * (age)^-0.203 * (0.742 if female) * (1.212 if Black). MDRD estimates GFR normalized to BSA (mL/min/1.73m2) and was developed in CKD patients. It underestimates GFR at levels above 60 and in healthy individuals. CKD-EPI: uses serum creatinine, age, sex, and race with different coefficients depending on creatinine level. CKD-EPI is more accurate than MDRD across the GFR range and is now the recommended equation by KDIGO for CKD staging. For drug dosing, KDIGO 2024 recommends either CKD-EPI or CG, with CG preferred for drugs where FDA labeling was based on CG-derived CrCl (many older antibiotics, chemotherapeutic agents). For BSA-indexed drugs (carboplatin, methotrexate), the result from MDRD or CKD-EPI should be un-indexed (multiply by BSA/1.73) when used in the Calvert formula.",
+    "source": "KDIGO Guidelines 2024",
+    "category": "evidence",
+    "cohort": "renal_impairment",
+    "drug_names": [
+      "carboplatin",
+      "methotrexate"
+    ],
+    "metadata": {
+      "tags": [
+        "renal function",
+        "Cockcroft-Gault",
+        "MDRD",
+        "CKD-EPI",
+        "drug dosing"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "GEN-001",
+    "title": "CYP450 Enzyme System Overview and Drug Interactions",
+    "content": "The cytochrome P450 (CYP450) enzyme superfamily is responsible for the oxidative metabolism of approximately 75% of clinically used drugs. The most clinically significant isoforms are CYP3A4/5 (metabolizes ~50% of drugs including statins, calcium channel blockers, benzodiazepines, macrolides, and many chemotherapeutics), CYP2D6 (beta-blockers, antidepressants, opioids, tamoxifen), CYP2C9 (warfarin, sulfonylureas, NSAIDs, phenytoin), CYP2C19 (clopidogrel, proton pump inhibitors, SSRIs), and CYP1A2 (theophylline, caffeine, clozapine). Drug interactions occur through enzyme inhibition (competitive or mechanism-based) and induction. Strong CYP3A4 inhibitors (ketoconazole, clarithromycin, ritonavir, grapefruit juice) can increase substrate exposure 5-20 fold. Strong inducers (rifampin, carbamazepine, phenytoin, St. Johns wort) can reduce substrate exposure by 70-90% within 1-2 weeks of coadministration and persist for 1-2 weeks after discontinuation. FDA drug interaction guidance categorizes inhibitors/inducers as strong, moderate, or weak based on magnitude of AUC change. Pharmacogenomic variation in CYP450 genes significantly affects drug metabolism: CYP2D6 shows the most pronounced genetic polymorphism with 4 phenotype categories (poor, intermediate, extensive/normal, ultrarapid). CYP2C19 also has clinically relevant variants with 15-30% of Asians being poor metabolizers. CYP3A4 genetic variation is less clinically impactful due to overlapping substrate specificity with CYP3A5.",
+    "source": "FDA Drug Interaction Guidance",
+    "category": "evidence",
+    "cohort": "general",
+    "drug_names": [
+      "warfarin",
+      "clopidogrel",
+      "tamoxifen",
+      "phenytoin",
+      "carbamazepine",
+      "rifampin"
+    ],
+    "metadata": {
+      "tags": [
+        "CYP450",
+        "drug interactions",
+        "pharmacogenomics",
+        "metabolism"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "GEN-002",
+    "title": "Polypharmacy Risk Assessment in Elderly Patients",
+    "content": "Polypharmacy, typically defined as concurrent use of 5 or more medications, affects approximately 40-50% of adults aged 65 and older and 65% of those 80+. The Beers Criteria (2023 AGS update) provides a list of potentially inappropriate medications in older adults, organized by drug class and comorbidity. Key high-risk categories: anticholinergics (diphenhydramine, amitriptyline, oxybutynin) increase risk of confusion, constipation, urinary retention, and falls. Benzodiazepines and non-benzodiazepine hypnotics (zolpidem) increase fall and fracture risk. Long-acting sulfonylureas (glyburide) cause prolonged hypoglycemia. NSAIDs increase GI bleeding, AKI, and worsen heart failure. Proton pump inhibitors are associated with C. difficile infection, bone loss, and B12 deficiency with prolonged use. The STOPP/START criteria complement Beers by identifying both potentially inappropriate prescriptions and prescribing omissions. Systematic medication review using these criteria should be performed at each transition of care and annually for community-dwelling older adults. Deprescribing principles: prioritize drugs without clear indication, those causing adverse effects, those with unfavorable risk-benefit in the elderly, and preventive medications with limited life-expectancy benefit. Taper rather than abruptly discontinue beta-blockers, alpha-2 agonists (clonidine), benzodiazepines, and SSRIs. Implement one change at a time to assess effects. Medication reconciliation at all care transitions reduces adverse drug events by 40-50%.",
+    "source": "AGS Beers Criteria 2023",
+    "category": "guideline",
+    "cohort": "general",
+    "drug_names": [
+      "diphenhydramine",
+      "amitriptyline",
+      "oxybutynin",
+      "zolpidem",
+      "glyburide",
+      "clonidine"
+    ],
+    "metadata": {
+      "tags": [
+        "polypharmacy",
+        "elderly",
+        "Beers criteria",
+        "deprescribing"
+      ],
+      "evidence_level": "IA",
+      "year": 2023
+    }
+  },
+  {
+    "doc_id": "GEN-003",
+    "title": "ADR Reporting and Pharmacovigilance Standards",
+    "content": "Adverse drug reaction (ADR) reporting is fundamental to post-marketing drug safety surveillance and is coordinated globally through the WHO Programme for International Drug Monitoring. In the United States, the FDA Adverse Event Reporting System (FAERS) collects spontaneous reports from healthcare professionals, consumers, and manufacturers. A serious ADR is defined by FDA as resulting in death, life-threatening events, hospitalization or prolongation of existing hospitalization, persistent or significant disability/incapacity, congenital anomaly/birth defect, or other medically important events requiring intervention. Healthcare professionals should report all serious ADRs, ADRs to new drugs (first 3-5 years post-approval), and unexpected ADRs not listed in current labeling. The Naranjo algorithm (adverse drug reaction probability scale) scores 10 questions assigning probability categories: definite (score 9+), probable (5-8), possible (1-4), or doubtful (0). Causality assessment considers temporal relationship, dechallenge/rechallenge response, alternative causes, objective evidence, and prior conclusive reports. Pharmacovigilance signal detection uses disproportionality analysis of spontaneous reporting databases: the Proportional Reporting Ratio (PRR) and Empirical Bayes Geometric Mean (EBGM) identify drug-event pairs reported more frequently than expected. The Institute for Safe Medication Practices (ISMP) maintains a list of high-alert medications requiring special safeguards. Medication error reporting through MEDWATCH and ISMP National Medication Errors Reporting Program (MERP) complements ADR surveillance.",
+    "source": "WHO/FDA Pharmacovigilance Standards",
+    "category": "guideline",
+    "cohort": "general",
+    "drug_names": [],
+    "metadata": {
+      "tags": [
+        "ADR",
+        "pharmacovigilance",
+        "FAERS",
+        "Naranjo algorithm"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "GEN-004",
+    "title": "Therapeutic Drug Monitoring Principles",
+    "content": "Therapeutic drug monitoring (TDM) individualizes drug dosing by measuring serum drug concentrations and adjusting to a target therapeutic range. TDM is indicated when there is a well-defined relationship between serum concentration and clinical effect (or toxicity), significant interpatient pharmacokinetic variability, a narrow therapeutic index, and when clinical endpoints are difficult to assess. Classic TDM drugs: vancomycin (target trough 15-20 mcg/mL for serious MRSA, or AUC/MIC 400-600), aminoglycosides (peak 5-10 gentamicin/tobramycin, 20-30 amikacin; trough below 2 and 5 respectively), digoxin (0.5-1.0 ng/mL for heart failure, 0.8-2.0 for atrial fibrillation), lithium (0.6-1.2 mEq/L maintenance, 1.0-1.5 acute mania), phenytoin (total 10-20 mcg/mL or corrected for albumin), theophylline (10-20 mcg/mL), cyclosporine and tacrolimus (trough targets vary by transplant type and time post-transplant), and voriconazole (trough 1.0-5.5 mcg/mL for efficacy and toxicity avoidance). Proper TDM requires appropriate sampling time: trough levels immediately before the next dose for most drugs; peak levels 30-60 minutes post-infusion for aminoglycosides. Steady-state (4-5 half-lives) must be reached before interpreting levels unless assessing toxicity. Free (unbound) drug concentrations should be measured when protein binding is altered (phenytoin in hypoalbuminemia, valproic acid). Bayesian forecasting software incorporating population pharmacokinetic models allows precise AUC estimation from limited sampling.",
+    "source": "Clinical Pharmacology Reference",
+    "category": "evidence",
+    "cohort": "general",
+    "drug_names": [
+      "vancomycin",
+      "gentamicin",
+      "tobramycin",
+      "amikacin",
+      "digoxin",
+      "lithium",
+      "phenytoin",
+      "theophylline",
+      "cyclosporine",
+      "tacrolimus",
+      "voriconazole",
+      "valproic acid"
+    ],
+    "metadata": {
+      "tags": [
+        "TDM",
+        "therapeutic range",
+        "pharmacokinetics",
+        "Bayesian"
+      ],
+      "evidence_level": "IIB",
+      "year": 2024
+    }
+  },
+  {
+    "doc_id": "GEN-005",
+    "title": "Evidence-Based Medicine Levels and Guideline Hierarchies",
+    "content": "Evidence-based medicine (EBM) classifies clinical evidence into hierarchical levels to guide the strength of recommendations. Level I: evidence from systematic reviews or meta-analyses of randomized controlled trials (RCTs), or individual high-quality RCTs with narrow confidence intervals. Level II: evidence from well-designed cohort studies or low-quality RCTs. Level III: case-control studies. Level IV: case series or poor-quality cohort studies. Level V: expert opinion without explicit critical appraisal. Guideline recommendation classes from AHA/ACC and other major organizations: Class I (Strong): benefit greatly exceeds risk, procedure/treatment should be performed/administered (Level of Evidence A: multiple RCTs or meta-analyses; B: single RCT or nonrandomized studies; C: expert opinion). Class IIa (Moderate): benefit exceeds risk, reasonable to perform/administer. Class IIb (Weak): benefit may equal or exceed risk, may be considered. Class III (No Benefit): benefit equals risk, not recommended. Class III (Harm): risk exceeds benefit, potentially harmful, should not be performed. The GRADE (Grading of Recommendations Assessment, Development and Evaluation) system, used by KDIGO and WHO, rates quality of evidence as high, moderate, low, or very low, and recommendation strength as strong (we recommend) or weak (we suggest). Guideline adherence in clinical practice remains variable: studies show 30-50% of patients do not receive care consistent with current guidelines, highlighting the importance of clinical decision support systems, standardized order sets, and quality improvement initiatives to bridge the evidence-practice gap.",
+    "source": "AHA/ACC/GRADE Methodology",
+    "category": "evidence",
+    "cohort": "general",
+    "drug_names": [],
+    "metadata": {
+      "tags": [
+        "evidence-based medicine",
+        "guidelines",
+        "GRADE",
+        "recommendation classes"
+      ],
+      "evidence_level": "IA",
+      "year": 2024
+    }
+  }
+]

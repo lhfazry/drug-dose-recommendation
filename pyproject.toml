@@ -1,0 +1,29 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "drug-dose-recommendation"
+version = "0.1.0"
+description = "Explainable Generative AI for Drug and Dosage Recommendation Using Patient-Specific Modeling"
+readme = "README.md"
+requires-python = ">=3.10"
+license = { text = "MIT" }
+authors = [
+    { name = "Drug Dose Recommendation Team" }
+]
+dependencies = [
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "scikit-learn>=1.3.0",
+    "torch>=2.0.0",
+    "transformers>=4.35.0",
+    "faiss-cpu>=1.7.4",
+    "sentence-transformers>=2.2.0",
+    "shap>=0.42.0",
+    "pyyaml>=6.0",
+    "tqdm>=4.65.0",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
