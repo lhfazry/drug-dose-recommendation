@@ -231,7 +231,7 @@ class DosageEnvironment:
         for i, pf in enumerate(patient_features_list):
             risk = DosageEnvironment._estimate_adr_risk(pf, actions[i].item())
             adr_risks.append(risk)
-        adr_risks_t = torch.tensor(adr_risks, dtype=torch.float32)
+        adr_risks_t = torch.tensor(adr_risks, dtype=torch.float32, device=actions.device)
         
         reward = (
             -dosage_error_weight * (dosage_errors / 500.0)
